@@ -6,6 +6,6 @@
 
 
 ### 📚 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=reenact11)](https://github.com/reenact11)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=reenact11)](https:/velog.io/@reenact11/posts)
 
 </div>
