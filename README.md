@@ -2,7 +2,7 @@
   
 ### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,mysql,postgresql,docker)](https://skillicons.dev)
 
 
 ### 📚 Blog
